@@ -490,6 +490,10 @@ img {
   .contact__container {
     justify-items: center;
   }
+    .consider{
+    margin-left:  .2rem;
+    text-align: center;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -546,6 +550,10 @@ img {
   .work__container {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2rem;
+  }
+  .consider{
+    margin-left:  .2rem;
+    text-align: center;
   }
 }
 
