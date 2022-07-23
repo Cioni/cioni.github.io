@@ -444,6 +444,10 @@ img {
   .home__img {
     width: 200px;
   }
+  .consider{
+  margin-left:  .2rem;
+  text-align: center;
+}
 }
 
 @media screen and (min-width: 576px) {
