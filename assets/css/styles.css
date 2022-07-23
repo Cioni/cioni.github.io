@@ -1,4 +1,4 @@
-/*===== GOOGLE FONTS =====*/
+  /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
 :root {
@@ -450,6 +450,12 @@ img {
 }
 }
 
+@media screen and (min-width: 320px){
+  .consider{
+    margin-left:  .2rem;
+    text-align: center;
+  }
+}
 @media screen and (min-width: 576px) {
   .home {
     padding: 4rem 0 2rem;
@@ -490,11 +496,12 @@ img {
   .contact__container {
     justify-items: center;
   }
-    .consider{
+    /* .consider{
     margin-left:  .2rem;
     text-align: center;
-  }
+  } */
 }
+
 
 @media screen and (min-width: 768px) {
   body {
@@ -551,10 +558,10 @@ img {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2rem;
   }
-  .consider{
+  /* .consider{
     margin-left:  .2rem;
     text-align: center;
-  }
+  } */
 }
 
 @media screen and (min-width: 992px) {
