@@ -556,4 +556,8 @@ img {
   .home__img {
     width: 450px;
   }
+  .consider{
+  margin-left:  .2rem;
+  text-align: center;
+}
 }
