@@ -313,6 +313,13 @@ img {
   color: var(--first-color);
 }
 
+
+.fa-java {  /* poniendo esto asi me cambia el icono de java, sino no cambia de colorcito */
+  font-size: 2rem;
+  margin-right: var(--mb-2);
+  color: var(--first-color);
+}
+
 /* .skills__python{
   margin-right: var(--mb-2);
   color: var(--first-color);
@@ -339,6 +346,10 @@ img {
 
 .skills__css {
   width: 85%;
+}
+
+.skills__java{
+  width: 70%;
 }
 
 .skills__js {
