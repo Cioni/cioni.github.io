@@ -398,6 +398,8 @@ img {
 } */
 
 /* ===== CONTACT =====*/
+/* esto esta actualmente deshabilitado en la web */
+
 .contact__input {
   width: 100%;
   font-size: var(--normal-font-size);
